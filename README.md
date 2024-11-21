@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: him/he
-- ⚡ Fun fact: Intestines rearranfe themselves
+- ⚡ Fun fact: Intestines rearrange themselves
 
 <!---
 Omniscient-pixel/Omniscient-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
